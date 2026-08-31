@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinaya-sinha
 - 🎓 I'm a PhD student at the University of Minnesota
-- 👀 I’m interested in the phenomenology of BSM physics and dark matter
+- 👀 I’m interested in the phenomenology of neutrino and BSM physics
 - 📫 How to reach me: sinha266 [at] umn.edu
 
 <!---
